@@ -2,11 +2,18 @@ html, body {
  margin: 0;
  padding: 0;
  overflow: hidden;
- background-color: #010102;
  border: none;
  display: flex;
 }
 
 canvas {
  display: block;
+}
+
+h1{
+  font-family: Courier New;
+  font-size: 2vw;
+  color: #16b9d8;
+  margin-left: 1vw;
+  padding-right: .5vw;
 }
